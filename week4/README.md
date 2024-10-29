@@ -1,11 +1,5 @@
 # Помощна функция
-
-# include <cstdlib>
-# include <ctime>
-int generateRandomNumber(const int start, const int end){
-    std::srand(static_cast<unsigned int>(std::time(0)));
-    return std::rand() % (end - start + 1) + start;
-}
+https://pastebin.com/CNCuFzuH
 
 
 
